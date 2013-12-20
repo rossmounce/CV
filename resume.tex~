@@ -37,7 +37,7 @@
     \textbf{University of Bath}, Avon, United Kingdom \vspace{2mm}\\\vspace{1mm}%
     \textsl{Doctor of Philosophy in Biology} \hfill \textbf{2009 -- 2013}\vspace{-3mm}\\\vspace{-1mm}%
     \begin{list2}
-        \item Advisors:  Dr Matthew A. Wills and Dr Ronald Jenner
+        \item Advisors:  Professor Matthew A. Wills and Dr Ronald Jenner
     \end{list2}\vspace{-3mm}
     \textbf{The Natural History Museum}, London, United Kingdom \vspace{0mm}\\\vspace{1mm}%
     \textsl{MSc (Hons) in Advanced Methods in Taxonomy and Biodiversity} \hfill \textbf{2008 -- 2009}\vspace{0mm}\\\vspace{1mm}%
@@ -125,6 +125,7 @@
 \newpage
     %__________________________________________________________________________________________________________________
     % Talks & Posters
+	\vspace{-7 mm}
     \section{\mysidestyle Other Talks\\ \&  Posters}
 
 
@@ -138,6 +139,11 @@
 \vspace{-7 mm}
 \textbf{The 2nd Pro-iBiosphere Workshop} (Leiden) \hfill \textbf{Feb. 14th 2013}\\
     \textsl{\href{http://wiki.pro-ibiosphere.eu/wiki/Workshops_Leiden_February_2013}{Deconstructing PDF's into SVG to extract semantic data}}\\
+
+
+\vspace{-7 mm}
+\textbf{The 1st Open Knowledge Festival} (Helsinki) \hfill \textbf{Sep. 19th 2012}\\
+\textsl{\href{http://okfestival.org/open-research-and-education/}{The OKFN Panton Fellowships: from data mining to graduate training}} with Kershaw S. \\
     
 \vspace{-7 mm}
 \textbf{Willi Hennig Society Meeting XXXI} (Riverside, California) \hfill \textbf{Jun. 25th 2012}\\
@@ -213,8 +219,8 @@
     % Service
     \section{\mysidestyle Professional Service} 
 
-\href{http://www.systass.org/council/2013council.shtml}{Member of Council} for the Systematics Association, 2012-2015 \\
-Reviewer: \textsl{BMC Bioinformatics}, \textsl{Bioinformatics}, \textsl{J. of Evolutionary Biology}, \textsl{Ideas in Ecology \& Evolution}\\
+\textbf{Member of Council}: Systematics Association \hspace{10mm} \textbf{Subject Editor}: \textsl{Biodiversity Data Journal} \\
+\textbf{Reviewer}: \textsl{BMC Bioinformatics}, \textsl{Bioinformatics}, \textsl{J. of Evolutionary Biology}, \textsl{Ideas in Ecology \& Evolution}\\
 
 \vspace{-7 mm} 
  %__________________________________________________________________________________________________________________
@@ -260,8 +266,7 @@ At Bath I've had the pleasure of giving over 200 hours of teaching, mostly to un
 \section{\mysidestyle Referees} 
 
 \begin{tabular}{@{}p{6cm}p{6cm}}
-\textbf{Dr Matthew Wills}              &  \textbf{Dr Ronald Jenner}     \\
-Senior Lecturer          &  Researcher      \\
+\textbf{Prof Matthew Wills}              &  \textbf{Dr Ronald Jenner}     \\
 University of Bath                     &  Natural History Museum, London    \\
 Avon, United Kingdom           &  London, United Kingdom      \\
 \textsl{m.a.wills@bath.ac.uk} / 01225 383504     &   \textsl{r.jenner@nhm.ac.uk}    \\
