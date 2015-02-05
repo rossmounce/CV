@@ -2,6 +2,7 @@
  File generated using the impact_cv widget, created by Guillaume Lobet (Université de Liège) 
 
 Here's a change
+Here's another change
 
  Website: www.guillaumelobet.be/impact 
 
